@@ -1,0 +1,7 @@
+# Ignore everything in the VODS and matches folders
+VODS/*.mp4
+matches/*.mp4
+DivResults/*.xls
+helpers/__pycache__/
+TempImages/*.png
+.env
