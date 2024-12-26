@@ -2,6 +2,7 @@
 VODS/*.mp4
 matches/*.mp4
 DivResults/*.xls
+DivResults/*.json
 helpers/__pycache__/
-TempImages/*.png
+TempImages/*.jpg
 .env
