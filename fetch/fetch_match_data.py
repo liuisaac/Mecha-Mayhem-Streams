@@ -1,7 +1,7 @@
 import os
 import json
-from helpers.fetch.fetch_div_data import load_match_info
-from helpers.fetch.mappings import year_to_key_map
+from .fetch_div_data import load_match_info
+from .mappings import year_to_key_map
 
 def get_match_info_from_api(match_val, round_num, year, division_id):
     event_id = year_to_key_map[year]

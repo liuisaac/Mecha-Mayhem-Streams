@@ -3,7 +3,7 @@
 import os
 import requests
 from dotenv import load_dotenv
-from helpers.fetch.mappings import year_to_key_map
+from .mappings import year_to_key_map
 import json
 
 # Load environment variables

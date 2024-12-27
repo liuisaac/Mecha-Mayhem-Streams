@@ -4,5 +4,7 @@ matches/*.mp4
 DivResults/*.xls
 DivResults/*.json
 helpers/__pycache__/
+fetch/__pycache__/
 TempImages/*.jpg
+__pycache__/
 .env
